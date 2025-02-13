@@ -1,0 +1,19 @@
+numpy
+opencv-python
+
+# window_capture
+pygetwindow
+mss
+pywin32
+
+# guide
+pandas
+openai
+
+# object_detection
+ultralytics
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://pypi.org/simple
+torch
+torchvision
+torchaudio
